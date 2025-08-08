@@ -24,7 +24,6 @@ Student\_Grade\_Predictor/
 
 ````
 
-*(Feel free to adjust folder names and structure according to your actual repository.)*
 
 ## Installation
 1. Clone the repository:
